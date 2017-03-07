@@ -3,7 +3,7 @@
   2. You need unpack zip file
   3. You don`t need the zip file anymore
   4. You are extracting files from zip archive
-  5. And are deleting deleting zip file
+  5. You are deleting deleting zip file
   
 ## How to use?
   1. Install the program
