@@ -11,5 +11,5 @@
   3. Right click by zip file
   4. Choose unpacker
   5. You zip file will be unpacked to the current directory
-  6. Your original file will be deleted
+  6. Your zip file will be deleted
 
