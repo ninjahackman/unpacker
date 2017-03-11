@@ -1,1 +1,1 @@
-java -jar %~dp0unpacker.jar %1
+java -jar "%~dp0unpacker.jar" %1
